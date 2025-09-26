@@ -1,16 +1,19 @@
-# React + Vite
+# Tailwind React Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um portfólio moderno e responsivo desenvolvido com React e Tailwind CSS, convertido de uma versão anterior em Bootstrap. Este site apresenta uma seção de boas-vindas, uma barra de navegação fixa, uma galeria de projetos com modais interativos, um formulário de contato e um rodapé simples.
 
-Currently, two official plugins are available:
+## 🚀 Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Design Responsivo**: Adaptável a dispositivos móveis, tablets e desktops.
+- **Navegação Fixa**: Barra de navegação que permanece no topo com links suaves para seções.
+- **Galeria de Projetos**: Exibe projetos em cards, com modais para detalhes adicionais.
+- **Formulário de Contato**: Integrado com Formspree para envio de mensagens.
+- **Tema Escuro**: Estilo moderno com fundo escuro e elementos em Tailwind CSS.
 
-## React Compiler
+## 🛠️ Tecnologias Utilizadas
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React**: Biblioteca para construção da interface.
+- **Tailwind CSS**: Framework CSS para estilização utilitária.
+- **Vite**: Ferramenta de build e desenvolvimento rápido.
+- **React Icons**: Ícones vetoriais para elementos visuais.
+- **Formspree**: Serviço para envio de formulários de contato.
